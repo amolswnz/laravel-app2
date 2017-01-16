@@ -1,7 +1,3 @@
-https://scotch.io/tutorials/create-a-laravel-and-angular-single-page-comment-application
-Mutators not done
-customise pagination
-
 ##Laravel Learning
 
 **My Blog** is a Laravel framework based PHP/MySQL application which is used to *Create - Read - Update - Delete* blog post.
